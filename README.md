@@ -16,7 +16,7 @@
 
 
 ## Python for LLM 
-
+- [Beginner’s Guide to Building LLM Apps with Python](https://www.kdnuggets.com/beginners-guide-to-building-llm-apps-with-python)
 
 ## Python Books
 
